@@ -365,7 +365,7 @@
      -ms-flex: 0 auto;
      flex: 0 auto;
      border: 2px none #000;
-     background-color: #fbbf2d;
+     background-color: #f697fa;
    }
    
    .marquee-text {
@@ -949,7 +949,7 @@
    .marquee__contain.is--two {
      top: -72px;
      z-index: 2;
-     background-color: #fbbf2d;
+     background-color: #f697fa;
      -webkit-transform: rotate(-6deg);
      -ms-transform: rotate(-6deg);
      transform: rotate(-6deg);
@@ -1757,7 +1757,7 @@
      -ms-flex: 0 auto;
      flex: 0 auto;
      border: 2px solid #000;
-     background-color: #fbbf2d;
+     background-color: #f697fa;
    }
    
    .faq__title__wrapper {
@@ -2295,7 +2295,7 @@
      -ms-flex: 0 auto;
      flex: 0 auto;
      border: 2px none #000;
-     background-color: #fbbf2d;
+     background-color: #f697fa;
    }
    
    .flex-scrolling {
@@ -2917,7 +2917,7 @@
        -webkit-flex: 0 auto;
        -ms-flex: 0 auto;
        flex: 0 auto;
-       background-color: #fbbf2d;
+       background-color: #f697fa;
      }
    
      .cards__container {
