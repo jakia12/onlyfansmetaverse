@@ -439,3 +439,19 @@
   -ms-flex-align: center;
   align-items: center;
 }
+.nav__link {
+  padding: 12px 24px;
+  border-radius: 0px;
+  background-color: transparent;
+  -webkit-transition: all 350ms ease;
+  transition: all 350ms ease;
+  font-family: "Space Grotesk", sans-serif;
+  color: #000 !important;
+  font-size: 19px !important;
+  line-height: 24px;
+  font-weight: 600 !important;
+  letter-spacing: 0em;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
