@@ -70,6 +70,9 @@
     width: calc(100vw * 10); /* Ensure smooth sliding */
     animation: scroll-phone 40s linear infinite;
   }
+  .dp {
+    display: none;
+  }
   .crd {
     margin-bottom: 30px;
   }
