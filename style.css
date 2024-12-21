@@ -70,7 +70,9 @@
     width: calc(100vw * 10); /* Ensure smooth sliding */
     animation: scroll-phone 40s linear infinite;
   }
-
+  .crd {
+    margin-bottom: 30px;
+  }
   @keyframes scroll-phone {
     0% {
       transform: translate(0);
